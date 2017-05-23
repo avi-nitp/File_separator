@@ -1,4 +1,4 @@
-#important:-run selectdir file from command line using python3 selectdir.py
+#important:-run selectdir.py file from command line using python3 selectdir.py
 #Avinash kumar singh project work
 #Nit Patna,CSE
 
