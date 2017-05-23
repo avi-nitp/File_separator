@@ -1,9 +1,11 @@
+#important:-run selectdir file from command line using python3 selectdir.py
+#Avinash kumar singh project work
+#Nit Patna,CSE
+
 import shutil
 import os
 
-#from maincheck import source
-
-
+#getting current working directory
 source =os.path.dirname(os.path.abspath(__file__))
 
 #appending of path
@@ -33,11 +35,7 @@ dest12=source+'/SQL'
 
 dest13=source+'/Others'
 
-#if not os.path.exists(dest1):
- #   os.makedirs(dest1)
-
-
-
+#gives all the files present in the directory
 files = os.listdir(source)
 
 for f in files:
