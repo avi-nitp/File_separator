@@ -1,5 +1,6 @@
 #Avinash kumar singh project work
 #Nit Patna,CSE
+#save the two files in some folder somewhere,else may show missing file.
 #important:-run this file from command line using python3 selectdir.py
 
 import tkinter, tkinter.filedialog
