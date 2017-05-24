@@ -1,7 +1,8 @@
 #Avinash kumar singh project work
 #Nit Patna,CSE
-#save the two files in some folder somewhere,else may show missing file.
-#important:-run this file from command line using python3 selectdir.py
+#save the two files in some folder somewhere if files are downloaded explictly,else may show missing file.
+#important:-run this file from command line first change the directory to the location where files are present using:-cd location(location where the files are present)
+#then run using:- python3 selectdir.py
 
 import tkinter, tkinter.filedialog
 import os
