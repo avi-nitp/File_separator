@@ -1,9 +1,12 @@
+#Avinash kumar singh project work
+#Nit Patna,CSE
+#save the two files in some folder somewhere,else may show missing file.
+#important:-run selectdir.py file from command line using python3 selectdir.py
+
 import shutil
 import os
 
 #from maincheck import source
-
-
 source =os.path.dirname(os.path.abspath(__file__))
 
 #appending of path
