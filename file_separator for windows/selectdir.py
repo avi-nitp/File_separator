@@ -1,3 +1,8 @@
+#Avinash kumar singh project work
+#Nit Patna,CSE
+#save the two files in some folder somewhere,else may show missing file.
+#important:-run this file(selectdir.py) first using python IDLE or download python IDE for windows to run it.
+
 import tkinter, tkinter.filedialog
 import os
 import tkinter.messagebox
